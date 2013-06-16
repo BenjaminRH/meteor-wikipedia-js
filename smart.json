@@ -1,0 +1,9 @@
+{
+	"name": "wikipedia-js",
+	"description": "wikipedia-js NPM module packaged for Meteor.",
+	"homepage": "https://github.com/BenjaminRH/meteor-wikipedia-js",
+	"author": "Benjamin Harris  (http://benjaminrharris.com)",
+	"version": "0.0.5",
+	"git": "https://github.com/BenjaminRH/meteor-wikipedia-js.git",
+	"packages": {}
+}
